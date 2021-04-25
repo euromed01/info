@@ -4,6 +4,9 @@
     }
 }
 
+.title {
+    font-size: 1.5rem;
+}
 .subtitle {
     color: black !important;
 }
