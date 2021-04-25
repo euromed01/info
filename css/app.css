@@ -2,4 +2,8 @@
     .gap {
         padding: 0.3rem;
     }
-}    
+}
+
+.subtitle {
+    color: black !important;
+}
